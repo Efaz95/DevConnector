@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://efaz:efaz123@devconnector-lxmzy.mongodb.net/test?retryWrites=true&w=majority"
+}
